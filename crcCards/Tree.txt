@@ -1,7 +1,0 @@
-Class name: tree
-
-Responsibilities:
-* Displays the entire filesystem as a tree
-
-Collaborators:
-* JShell

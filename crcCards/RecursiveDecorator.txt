@@ -1,8 +1,0 @@
-Class name: RecursiveDecorator
-Sub-classes: CommandDecorator
-
-Responsibilities:
-* Decorates command to be able to execute recursive calls appropriately
-
-Collaborators:
-* Command

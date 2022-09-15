@@ -1,7 +1,0 @@
-Class name: CommandReader
-
-Responsibilities:
-* Read input line, separate arguments
-* Raise exception if invalid arguments are provided
-
-Collaborators:

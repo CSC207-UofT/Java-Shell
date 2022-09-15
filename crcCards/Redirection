@@ -1,8 +1,0 @@
-Class name: Redirection
-Sub-classes: CommandDecorator
-
-Responsibilities:
-* Decorates command to redirect output into a file
-
-Collaborators:
-* Command

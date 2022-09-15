@@ -1,8 +1,0 @@
-Class name: FileSystemObject
-Subclasses: Directory, File
-
-Responsibilities:
-* Is a file system object such as directory or file
-* Can be renamed, moved
-
-Collaborators:

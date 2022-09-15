@@ -1,9 +1,0 @@
-Class name: JShell
-
-Responsibilities:
-* Run and terminate the program
-* Provide access to other classes
-
-Collaborators:
-* JShellState
-* CommandExecutor

@@ -1,9 +1,0 @@
-Class name: Cat
-Parent class: Command
-
-Responsibilities:
-* Display the contents of a file and multiple files
-* Raise exception is file doesn't exist
-
-Collaborators:
-* File

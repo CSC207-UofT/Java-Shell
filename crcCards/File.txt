@@ -1,9 +1,0 @@
-Class name: File
-Parent class: FileSystemObject
-
-Responsibilities:
-* Contain data, information
-* Can be opened, read, edited, deleted
-
-Collaborators:
-* Directory

@@ -1,9 +1,0 @@
-Class name: cp
-Parent class: Command
-
-Responsibilities:
-* Copies all the items from old path to a new path
-
-Collaborators:
-* JShell
-* rec

@@ -1,7 +1,0 @@
-Class name: getURL
-
-Responsibilities:
-* Retrieve file from URL and add to the current working directory
-
-Collaborators:
-* JShell
