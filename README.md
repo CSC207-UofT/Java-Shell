@@ -4,20 +4,11 @@
 Java (1.7 or later)
 
 ## Using the program
+Open the project in IntelliJ and run `JShell.main()`
 
-### Compiling
-* Open a terminal. (It's in the row of tabs at the bottom of this window.) 
-* Copy and paste these two commands:
-```
-cd src/main/java   # This opens the src/main/java folder
-javac driver/*.java   # This compiles the whole program.
-```
-
-### Starting the Program
-* Run the program:
-```
-$ java driver/JShell
-```
+If gradle fails to run, read the error message displayed
+and adjust your settings as needed. For example, you may
+need to change the Gradle JVM setting.
 
 ## Commands 
 List of commands available 
