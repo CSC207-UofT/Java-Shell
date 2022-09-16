@@ -8,7 +8,7 @@ Open the project in IntelliJ and run `JShell.main()`
 
 If gradle fails to run, read the error message displayed
 and adjust your settings as needed. For example, you may
-need to change the Gradle JVM setting.
+need to change your project SDK or change the Gradle JVM setting.
 
 ## Commands 
 List of commands available 
